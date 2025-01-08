@@ -1,0 +1,410 @@
+[
+    {
+        "platformName": "android",
+        "osVersion": "13.0",
+        "deviceName": "Samsung Galaxy S23 Ultra",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "13.0",
+        "deviceName": "Samsung Galaxy S23",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Samsung Galaxy S22 Ultra",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Samsung Galaxy S22 Plus",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Samsung Galaxy S22",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Samsung Galaxy S21",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Samsung Galaxy S21 Ultra",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Samsung Galaxy S21",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Samsung Galaxy S21 Plus",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy S20",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy S20 Plus",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy S20 Ultra",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "14.0",
+        "deviceName": "Samsung Galaxy S24 Ultra",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "14.0",
+        "deviceName": "Samsung Galaxy S24",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Samsung Galaxy M52",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Samsung Galaxy M32",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Samsung Galaxy A52",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy Note 20 Ultra",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy Note 20",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy A51",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy A11",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Samsung Galaxy S10 Plus",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Samsung Galaxy S10",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Samsung Galaxy Note 10",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Samsung Galaxy A10",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "8.1",
+        "deviceName": "Samsung Galaxy Note 9",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "8.0",
+        "deviceName": "Samsung Galaxy S9",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "7.0",
+        "deviceName": "Samsung Galaxy S8",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "14.0",
+        "deviceName": "Google Pixel 9 Pro XL",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "14.0",
+        "deviceName": "Google Pixel 9",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "14.0",
+        "deviceName": "Google Pixel 8 Pro",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "14.0",
+        "deviceName": "Google Pixel 8",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "13.0",
+        "deviceName": "Google Pixel 7 Pro",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "13.0",
+        "deviceName": "Google Pixel 7",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "13.0",
+        "deviceName": "Google Pixel 6 Pro",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Google Pixel 6 Pro",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Google Pixel 6",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Google Pixel 5",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Google Pixel 5",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Google Pixel 4",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Google Pixel 4 XL",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Google Pixel 4",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Google Pixel 3a",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Google Pixel 3",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "13.0",
+        "deviceName": "OnePlus 11R",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "OnePlus 9",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "OnePlus 8",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "OnePlus 7T",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "OnePlus 7",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Xiaomi Redmi Note 11",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Xiaomi Redmi Note 9",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Xiaomi Redmi Note 8",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Vivo Y21",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Vivo V21",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Vivo Y50",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Oppo Reno 6",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Oppo A96",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Oppo Reno 3 Pro",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Motorola Moto G71 5G",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Motorola Moto G9 Play",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Motorola Moto G7 Play",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Huawei P30",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "13.0",
+        "deviceName": "Samsung Galaxy Tab S9",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "12.0",
+        "deviceName": "Samsung Galaxy Tab S8",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "11.0",
+        "deviceName": "Samsung Galaxy Tab S7",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "10.0",
+        "deviceName": "Samsung Galaxy Tab S7",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Samsung Galaxy Tab S6",
+        "realMobile": true
+    },
+    {
+        "platformName": "android",
+        "osVersion": "9.0",
+        "deviceName": "Samsung Galaxy Tab S5e",
+        "realMobile": true
+    }
+]

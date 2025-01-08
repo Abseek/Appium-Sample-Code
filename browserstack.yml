@@ -1,0 +1,27 @@
+acceptInsecureCerts: true
+accessKey: ZJfZX1Qr7CrzqiRMwUAv
+app: bs://facfc14fa1d2493dc017e3b55bd6bf4ad2f2fac9
+browserStackLocalOptions:
+  -force-proxy: true
+  forceLocal: true
+  proxyHost: 5.78.64.26
+  proxyPass: 815ef3918239e2b4
+  proxyPort: '824'
+  proxyUser: f3335ece9a42ff6ec38f__cr.us
+browserstackLocal: true
+buildIdentifier: '#${BUILD_NUMBER}'
+buildName: browserstack build
+consoleLogs: errors
+debug: true
+idleTimeout: 300
+interactiveDebugging: true
+networkLogs: false
+parallelsPerPlatform: 1
+platforms:
+- deviceName: Samsung Galaxy S23 Ultra
+  osVersion: '13.0'
+  platformName: android
+  realMobile: true
+projectName: BrowserStack Samples
+source: python:appium-sample-sdk:v1.0
+userName: alexandradrew_zE7Ugi
